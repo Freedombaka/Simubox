@@ -5,8 +5,9 @@ Simubox Is a game where you can mix and react elements to make other... elements
 # Changelog
 The game is in early-alpha and WILL contain bugs and not have all features
 Progress to next milestone
-0%
-The game is not made yet...
+1%
+Early prototype is in the works
+I am making a couple of prototypes in python because i know python better
 # Plans
 The game will have abt 200 elements, More to come when ready
 The game will have saves hosted on the webs :O, Also it will have a energy system, Food, and modding ablity (likely a seperate loader, offical or unoffical)
